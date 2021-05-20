@@ -1,13 +1,13 @@
 <p align="center"> 
   Req<br>
-  <img src="https://profile-counter.glitch.me/mlspacetoon/count.svg" />
+  <img src="https://profile-counter.glitch.me/beraxintesis/count.svg" />
 </p>
 
 <details>
   <summary><b>My Github Stats</b></summary>
-  <img alt="mlspacetoon github stats" src="https://github-readme-stats.vercel.app/api?username=mlspacetoon&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
+  <img alt="beraxintesis github stats" src="https://github-readme-stats.vercel.app/api?username=beraxintesis&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlspacetoon&layout=compact&hide_border=true"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraxintesis&layout=compact&hide_border=true"/>
 </details>
 
 <details>
